@@ -7,3 +7,5 @@
 - Idk what to add next. Will update this if anything comes to my mind :D
 
 ![Discord: ](https://discord-readme-badge.vercel.app/api?id=580741076986626049)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v6o7r4r3427ul3i7jxn2c2w4je&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31v6o7r4r3427ul3i7jxn2c2w4je&redirect=true)
