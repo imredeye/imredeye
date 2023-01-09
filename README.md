@@ -7,7 +7,7 @@
 [![191x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=191x0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently learning [Java](https://www.java.com/en/) and [JavaScript](https://www.javascript.com/)
-- You can reach me on [Discord](https://www.discord.com/). My username is **3ViL#2394**. Here is also my user id __**(580741076986626049)**__ for you to make sure that the person you are messaging is me.
+- You can reach me on [Discord](https://www.discord.com/). My username is **3ViL#2394**.]
 
 ![Discord: ](https://discord-readme-badge.vercel.app/api?id=580741076986626049)
 
