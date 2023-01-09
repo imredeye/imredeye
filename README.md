@@ -2,6 +2,8 @@
 
 ## I'm 191x0. I play [Minecraft](https://www.minecraft.net/) and [TF2](https://www.teamfortress.com/).
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=F70000&width=435&lines=%3CYo.+Here's+RedEye+%F0%9F%91%8B%2F%3E)](https://git.io/typing-svg)
+
 [![191x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=191x0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently learning [Java](https://www.java.com/en/) and [JavaScript](https://www.javascript.com/)
